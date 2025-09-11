@@ -7,7 +7,7 @@
 
 ## 🔍 What I’m focusing on
 
-- Sound recognition for automatic video processing (open-source flagship project)
+- Sound recognition for automatic video processing (open-source project)
 
 - Deploying AI models to the cloud with Azure Cognitive Services
 
