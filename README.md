@@ -1,28 +1,52 @@
 ## 👋 Hi there, I'm Kate
-🚀 Senior Software Engineer & Tech Lead with 15+ years of experience in .NET, distributed systems, desktop and web applications, cloud.
+Senior Software Engineer & Tech Lead with 15+ years of experience in .NET, distributed systems, desktop and web applications, cloud.
 
-🎯 Currently gaining skills in Artificial Intelligence & Machine Learning — with focus on computer vision, sound recognition, and deep learning.
+Currently gaining skills in Artificial Intelligence & Machine Learning — with focus on computer vision, sound recognition, and deep learning.
 
-☁️ Actively working on Azure AI-102 certification and building applied AI projects in Python.
+Microsoft Certified: Azure AI Engineer Associate (AI-102).
 
-## 🔍 What I’m focusing on
+## 🔭 I’m currently working on
 
-- Sound recognition for automatic video processing (open-source project)
+### Sound recognition model 
+This is a CNN-based audio event detection system that classifies sounds and can be used in automated video processing. I am creating a custom model from scratch - that includes data mining, cleanup and preparing, defining a CNN, evaluating the model and using it in video editing project.
 
-- Deploying AI models to the cloud with Azure Cognitive Services
+Check it out:
+🎧 [Sound Recognition for Video Processing](https://github.com/KateSVD/ShotSoundNn)
 
-## 📂 Featured Projects
-- 🎧 [Sound Recognition for Video Processing](https://github.com/KateSVD/ShotSoundNn)
+### Online video editing tool
 
-CNN-based audio event detection system that classifies sounds and can be used in automated video processing. 
+An online tool that automatically synchronizes and merges two videos based on recognized sound patterns, generating clip ready for YouTube Shorts or social media.
 
-- 😄 [AI speaking avatar] (https://github.com/KateSVD/AiAvatar)
+Backend in Python (FFmpeg + AI model integration).
 
-A video generator of a speaking avatar based on provided text and an image of a face (a person). 
-Compiles [SadTalker](https://github.com/OpenTalker/SadTalker) and [coqui_TTS](https://github.com/coqui-ai/TTS) into one solution.
+Check it out:
+🎬 [Sound Recognition for Video Processing](https://github.com/KateSVD/ShotSoundNn)
+
+## 🛠️ Skills
+
+- Languages & Frameworks
+
+.NET (C#, ASP.NET Core, WPF), SQL Server 
+Python, PyTorch, TensorFlow
+
+- Cloud & Tools
+
+Microsoft Azure (Cognitive Services, Functions, App Services)
+
+Docker, GitHub Actions, REST APIs, CI/CD
+
+- AI/ML Domains
+
+Computer Vision (CNNs, image classification)
+
+Audio Recognition (spectrograms, CNN-based sound detection)
+
+Cloud AI Integration & Deployment
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/kate-sviryd-4a866787/)
+- [LinkedIn](https://www.linkedin.com/in/kate-sviryd-4a866787/)
+- [Resume]()
+- Email: kate-svd@gmail.com
 
 <!--
 **KateSVD/KateSVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
